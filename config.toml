@@ -1,0 +1,4 @@
+baseURL = "https://musicsheetklx.vercel.app"
+languageCode = "en-us"
+title = "Free Sheet Music"
+theme = "tale"
